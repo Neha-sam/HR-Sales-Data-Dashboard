@@ -24,8 +24,7 @@ Imported HR dataset from Excel into Power BI.
    - Bar, Column, Line, and Scatter charts.
    - KPIs and Slicers for Country and Alphabet filters.
 
-## Dashboard
-view - (https://github.com/Neha-sam/HR-Sales-Data-Dashboard/blob/main/hr%20dashboard.png)
+  -- Dashboard Interaction < a href = "https://github.com/Neha-sam/HR-Sales-Data-Dashboard/blob/main/hr%20dashboard.png">View Dashboard</a>
 
 ## Project Insights
 Total Headcount : 183 employees  
