@@ -13,6 +13,8 @@ Dataset - (https://github.com/Neha-sam/HR-Sales-Data-Dashboard/blob/main/hr-data
 - Understand workforce distribution by age, gender, and department.
 - Monitor hiring trends and total salary expenses.
 
+-  Dashboard Interaction <a href="https://github.com/Neha-sam/HR-Sales-Data-Dashboard/blob/main/hr%20dashboard.png">View Dashboard</a>
+
 ## Process
 Imported HR dataset from Excel into Power BI.
 2. Cleaned data (removed nulls, formatted dates, converted salary to numeric).
@@ -24,7 +26,8 @@ Imported HR dataset from Excel into Power BI.
    - Bar, Column, Line, and Scatter charts.
    - KPIs and Slicers for Country and Alphabet filters.
 
-   - Dashboard Interaction <a href="https://github.com/Neha-sam/HR-Sales-Data-Dashboard/blob/main/hr%20dashboard.png">View Dashboard</a>
+## Dashboard
+<img width="980" height="549" alt="hr dashboard" src="https://github.com/user-attachments/assets/84c24a5b-7b3c-40a5-b993-bcbbab3adeaa" />
 
 ## Project Insights
 Total Headcount : 183 employees  
